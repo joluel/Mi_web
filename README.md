@@ -1,2 +1,2 @@
 # Mi_web
-mi paguina wub
+mi paguina web
